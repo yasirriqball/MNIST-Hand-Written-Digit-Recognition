@@ -4,7 +4,7 @@
 
 This project is part of my academic portfolio and demonstrates the use of Convolutional Neural Networks (CNNs) for digit classification using the MNIST dataset. It has been submitted as part of my digital CV assignment and is available on GitHub Pages here:
 
-🔗 **View My CV**: [https://yourusername.github.io/yourcv]([https://yourusername.github.io/yourcv](https://yasirriqball.github.io/my-digital-cv/))
+🔗 **View My CV**: [https://yasirriqball.github.io/my-digital-cv/](https://yasirriqball.github.io/my-digital-cv/)
 
 ---
 
